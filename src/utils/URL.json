@@ -1,0 +1,7 @@
+{
+    "BASE_URL":"http://localhost:3000/",
+    "LOGIN_URL":"http://localhost:3000/login",
+    "REGISTERCLIENTE_URL":"http://localhost:3000/register_cliente",
+    "REGISTERHACEDOR_URL":"http://localhost:3000/register_hacedor",
+    "REQUESTSERVICE_URL":"http://localhost:3000/solicitar_servicio"
+}
